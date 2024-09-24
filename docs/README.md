@@ -56,50 +56,6 @@
 
 スクラム開発・チケット駆動開発
 
-### 言語
-
-Go・JavaScript・Ruby・TypeScript
-
-### フレームワーク・ライブラリ
-
-React・Ruby on Rails・Serverless Framework
-
-### 通信プロトコル
-
-GraphQL・gRPC・REST
-
-### RDB
-
-MySQL・PostgreSQL
-
-### クラウド
-
-#### AWS
-
-API Gateway・AppSync・Aurora・CloudWatch・Cognito・DynamoDB・ECR・ECS・EC2・Fargate・IAM・Lambda・QuickSight・SES・SQS・S3
-
-#### Google Cloud
-
-Cloud Build・Cloud Pub/Sub・Cloud Run・Cloud SQL・Cloud Tasks・GKE・Secret Manager・Vertex AI
-
-### SaaS/PaaS
-
-Argo CD・Bitbucket・CircleCI・Firestore・GitHub・GitHub Actions・HubSpot・Redmine・Salesforce
-
-### その他
-
-Datadog・Docker・OpenAPI・RSpec・Terraform
-
-## OSS スポンサー
-
-- [textlint](https://github.com/textlint/textlint)
-- [markdownlint](https://github.com/DavidAnson/markdownlint)
-
-## OSS コントリビュート
-
-- [textlint-rule-rousseau](https://github.com/textlint-rule/textlint-rule-rousseau)
-  - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
-  - [PR](https://github.com/textlint-rule/textlint-rule-rousseau/pull/10)
 
 ## 技術記事
 
@@ -109,12 +65,17 @@ Datadog・Docker・OpenAPI・RSpec・Terraform
 
 ## 職務経歴詳細
 
-### SES企業
+### 株式会社オープンアップITエンジニア
 
-|期間|担当内容|開発環境|規模/役割|
+
+#### 2024年4月～現在の常駐先：サービス業界（球場・ホテル・遊園地・温浴施設等）
+
+|期間|概要|開発環境|規模/役割|
 |----|----|----|----|
+|----|統合IDシステムの開発・連携<br>【概要】<br>・複数サービスを利用する同一顧客の各会員IDを紐づけて統合し、顧客管理・分析可能を実現し、顧客体験の向上を目的とするプロジェクト<br>・SSO認証基盤を活用した１つのID/PWで複数のアプリ/システムにログインを可能とする|AWS|----|
 |2024年5月～<br>現在|----|AWS|----|
-|2024年5月～<br>現在|AWS勉強会の実施<br>月に1回~2回ほど勉強会を実施しております。|----|約10名<br>講師|
+|2024年5月～<br>現在|社内勉強会の実施<br>月に1回~2回ほど勉強会を実施しております。|----|約10名<br>講師|
+|2024年8月～<br>現在|----|AWS|----|
 
 
 
