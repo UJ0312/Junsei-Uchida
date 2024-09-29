@@ -15,20 +15,26 @@
 
 ## 保有資格
 
+|資格|取得時期|
+|----|----|
+|AWS Certified Solutions Architect Professional|2024年9月|
+|AWS Certified Developer Associate|2024年6月|
+|AWS Certified SysOps Administrator Associate|2024年5月|
+|AWS Certified Solutions Architect – Associate|2024年4月|
+|AWS Certified Cloud Practitioner|2024年2月|
+|基本情報技術者試験|2024年4月取得|
+
 - 普通自動車第一種運転免許（2020年12月取得）<br>
 - 基本情報技術者試験（2024年4月取得）<br>
 - LPIC level1（2024年1月取得）<br>
 - AWS Certified Cloud Practitioner（2024年2月取得）<br>
 - AWS Certified Solutions Architect – Associate（2024年4月取得）<br>
-- AWS Certified SysOps Administrator – Associate（2024年5月取得）<br>
-- AWS Certified Developer – Associate（2024年6月取得）<br>
-- AWS Certified Solutions Architect – Professional（2024年9月取得）<br>
+
 
 
 ## 学習履歴
 
-###【UdemyやCloudTech講座によるハンズオンを実施】
-
+【UdemyやCloudTech講座によるハンズオンを実施】<br>
 ・IAMの作成、VPCの構築、EC2の立ち上げ、NATゲートウェイの利用、S3バケットの作成等のハンズオン
 ・
 ・
